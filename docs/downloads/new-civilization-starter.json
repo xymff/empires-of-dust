@@ -1,0 +1,98 @@
+{
+  "game": "Empires of Dust",
+  "format_version": "1.0",
+  "campaign_id": "valley-of-reeds-demo",
+  "date": {
+    "display_year": "4000 BCE",
+    "elapsed_year": 1,
+    "season": "Early Autumn",
+    "day_in_season": 1,
+    "total_elapsed_days": 0
+  },
+  "player_role": "Immortal guiding intelligence",
+  "setting": {
+    "region": "The Valley of Reeds",
+    "world_facts": [
+      "A river curves past a low gravel terrace",
+      "Woodland to the west",
+      "Eastern hills are unexplored"
+    ],
+    "fog_of_war": "Eastern hills and downstream river remain unexplored",
+    "known_locations": [
+      {
+        "name": "Reedbank Camp",
+        "description": "A young encampment on a gravel terrace near the river",
+        "status": "controlled"
+      }
+    ]
+  },
+  "civilization": {
+    "name": "Reedbank Camp",
+    "culture": "Reedbank people",
+    "population": 54,
+    "housing_capacity": 48,
+    "government": "Founding elders",
+    "delegated_powers": [
+      "routine gathering",
+      "basic safety",
+      "caregiving"
+    ],
+    "population_notes": "Mixed-age group; not everyone is available for heavy labor"
+  },
+  "resources": {
+    "food_days": 18,
+    "wood_fuel_days": 12,
+    "livestock_fodder_days": 0,
+    "seed_reserve_food_day_equivalent": 0,
+    "livestock": {},
+    "materials": {
+      "wood": "nearby fallen timber",
+      "stone": "available along river",
+      "clay": "not surveyed"
+    },
+    "reserve_targets_days": {
+      "food": 25,
+      "wood_fuel": 25,
+      "fodder": 0
+    },
+    "accounting_basis": "days at current full-population/current-herd consumption rates"
+  },
+  "technology": {
+    "known": [
+      "fire",
+      "stone tools",
+      "basket weaving"
+    ],
+    "research_in_progress": []
+  },
+  "buildings_and_infrastructure": [
+    "Six temporary shelters",
+    "Shared fire pit"
+  ],
+  "workforce_and_projects": {
+    "standing_allocations": [],
+    "active_projects": []
+  },
+  "diplomacy": {
+    "known_peoples": [],
+    "treaties": [],
+    "conflicts": []
+  },
+  "standing_orders": [],
+  "restrictions": [],
+  "risks": [
+    "Six people currently without adequate shelter",
+    "Cold season approaching"
+  ],
+  "chronicle": [
+    "The Reedbank people arrived at the river terrace and established a camp."
+  ],
+  "named_people": [],
+  "unresolved_threads": [],
+  "last_turn": {
+    "orders": [],
+    "days_advanced": 0,
+    "result_summary": "Founding settlement established"
+  },
+  "next_prompt": "The wind rises off the river. Several families have no roofs. What are your orders?"
+}
