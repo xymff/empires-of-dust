@@ -7,7 +7,8 @@ A public home for **Taluma**, a fictional prehistoric civilization simulation, p
 - **Download complete Taluma game state:** [docs/data/taluma.json](docs/data/taluma.json)
 - **Start a new civilization:** [docs/downloads/new-civilization-starter.json](docs/downloads/new-civilization-starter.json)
 - **Continue Taluma in another AI:** [docs/downloads/resume-taluma-in-your-ai.txt](docs/downloads/resume-taluma-in-your-ai.txt)
-- **Complete universal starter kit:** [docs/downloads/universal-ai-game-kit.zip](docs/downloads/universal-ai-game-kit.zip)
+- **Quick-start AI prompt:** [docs/downloads/quick-start-prompt.txt](docs/downloads/quick-start-prompt.txt)
+- **Sharing guide and save template:** [docs/downloads/sharing-guide.md](docs/downloads/sharing-guide.md) · [docs/downloads/save-state-template.json](docs/downloads/save-state-template.json)
 - **New-civilization game-master instructions:** [docs/downloads/game-master-instructions.txt](docs/downloads/game-master-instructions.txt)
 
 ## Publish
