@@ -1,0 +1,91 @@
+{
+  "game": "Empires of Dust",
+  "format_version": "1.0",
+  "campaign_id": "unique-readable-campaign-name",
+  "date": {
+    "display_year": "4000 BCE",
+    "elapsed_year": 1,
+    "season": "Early Autumn",
+    "day_in_season": 1,
+    "total_elapsed_days": 0
+  },
+  "player_role": "Immortal guiding intelligence",
+  "setting": {
+    "region": "Descriptive region name",
+    "world_facts": [],
+    "fog_of_war": "Only mapped or reliably reported details are known",
+    "known_locations": [
+      {
+        "name": "Settlement",
+        "description": "Starting location",
+        "status": "controlled"
+      }
+    ]
+  },
+  "civilization": {
+    "name": "Settlement",
+    "culture": "New culture",
+    "population": 60,
+    "housing_capacity": 65,
+    "government": "Founding elders",
+    "delegated_powers": [
+      "routine gathering",
+      "basic safety",
+      "caregiving"
+    ],
+    "population_notes": "Record age groups, births, deaths, migration and labor constraints here"
+  },
+  "resources": {
+    "food_days": 20,
+    "wood_fuel_days": 15,
+    "livestock_fodder_days": 0,
+    "seed_reserve_food_day_equivalent": 0,
+    "livestock": {},
+    "materials": {
+      "wood": "scarce",
+      "stone": "available",
+      "clay": "unknown"
+    },
+    "reserve_targets_days": {
+      "food": 25,
+      "wood_fuel": 25,
+      "fodder": 0
+    },
+    "accounting_basis": "days at current full-population/current-herd consumption rates"
+  },
+  "technology": {
+    "known": [
+      "fire",
+      "stone tools"
+    ],
+    "research_in_progress": []
+  },
+  "buildings_and_infrastructure": [
+    "Temporary shelters"
+  ],
+  "workforce_and_projects": {
+    "standing_allocations": [],
+    "active_projects": []
+  },
+  "diplomacy": {
+    "known_peoples": [],
+    "treaties": [],
+    "conflicts": []
+  },
+  "standing_orders": [],
+  "restrictions": [],
+  "risks": [
+    "Approaching cold season"
+  ],
+  "chronicle": [
+    "Founding settlement established."
+  ],
+  "named_people": [],
+  "unresolved_threads": [],
+  "last_turn": {
+    "orders": [],
+    "days_advanced": 0,
+    "result_summary": "Start of campaign"
+  },
+  "next_prompt": "What are your orders?"
+}
