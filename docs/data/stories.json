@@ -5,6 +5,48 @@
   "note": "Stories are narrative editions of completed game turns, not executable save files. The canonical game state remains in data/taluma.json.",
   "stories": [
     {
+      "id": "y17-d346",
+      "title": "The Hearths We Share",
+      "year": 17,
+      "display_year": "3984 BCE",
+      "season": "Late Spring",
+      "day": 346,
+      "days_advanced": 67,
+      "deck": "A newly counted generation, an honest market, a host-chosen meeting and a northern tide that still refuses passage.",
+      "sections": [
+        {
+          "heading": "The hearth where they belong",
+          "paragraphs": [
+            "Hesa had lived at Taluma for a season before he admitted what worried him. His fishing-net repairs were welcome, Ruva had a place at the reed workshop, and Naro had already learned the quickest route to the Hall of Many Hands. But Hesa's sister was still in Reedmouth, and he had missed a family gathering there.",
+            "Seli suggested a visit rather than another speech about belonging. On the next permitted coastal journey, Hesa returned to Reedmouth with a repair sample, stayed with his relatives and came back at his own chosen time. Ruva joined Maren in testing basket linings against damp fish stores. Naro helped Seli count shells in a voluntary reading lesson and was not assigned adult work. Nothing required the family to cut ties with the inlet they had left.",
+            "The episode led Seli to a question the council had never properly counted. Taluma knew it had sixty-three working-age adults, forty-two children and seven elders. It did not know exactly how many adults lived without a partner, or how many of the children who had grown up during Taluma's seventeen years still lived at their original family hearths.",
+            "Maro proposed a household roll. Twenty-eight households gave voluntary aggregate answers with private checking, and he kept names off the public tally. There were nineteen unpartnered adults among seventy adult and elder residents, including sixteen of the sixty-three working-age adults and three elders. Nine people who had been children in Taluma's founding households were now working-age adults and still shared their family hearths. These two groups could overlap. The count said nothing about who wished to marry or leave home.",
+            "One young adult asked whether sharing a hearth made them a burden. Seli answered, \"Only if we stop asking who carries the work.\" Taluma's 118 housing places still had six vacancies. No new birth, death, immigration or relocation was recorded."
+          ]
+        },
+        {
+          "heading": "A market that can say no",
+          "paragraphs": [
+            "The next invited trade gathering opened with Dava's inspection table placed where visitors could reach it. Aret had changed the labels again. Each sound packet bore the preparation date, the two Taluman witnesses, and an empty place for a buyer's mark. A guest could choose and open a sample or refuse the lot entirely.",
+            "A Shellbend buyer found one packet that did not meet the agreed dry-center test. Aret pulled the entire questioned lot from the offer. A Reedmouth visitor then brought a different, honestly described lot of household provisions, while a consenting Windcut craft visitor demonstrated a narrower replaceable basket binding. No visitor was treated as representing every household on their shore.",
+            "Taluma traded twelve settlement-days of inspected food and accepted four days of incoming food. One wood pole and two reed bundles entered the nonfood ledger, and the demonstration was entered as knowledge rather than fictional profit. Three settlement-days of unsound or spoiled stores were discarded. Aret's apprentice noticed the public figures made the market appear less successful than the older stories about abundance.",
+            "\"Good,\" Iset said when the totals were read. \"Now someone who isn't here can tell what actually happened.\"",
+            "The council retained the 180-day provisional food floor and refused a request for assured seasonal quantities. Windcut's visitor had offered a trial design, not a standing commercial alliance. Repeatable quality, independent rejection and honest cost records were worth more than promising goods Taluma could not yet preserve reliably."
+          ]
+        },
+        {
+          "heading": "The sea and the other shore",
+          "paragraphs": [
+            "Oru and Tesh took Ilan's question to Renka. The old two-window protocol had expired with its last meeting, and Taluma sent neither a traveling party nor a marker without a new answer. Renka permitted one craft gathering on an upper Windgrass shelter bench chosen by her household, not the dangerous descent. She asked in return whether one of her learners might someday visit Taluma's public workshop. Ilan offered an invitation but left the decision with the learner.",
+            "Kelan brought the lower-load carrying frame; Renka's companion tested the quick release of its shoulder band. Seven of eight controlled, gentle-ground trials stayed secure. In the eighth, the released frame tilted toward the carrier's ankle. Renka stopped the lesson and ordered the strap moved. Nobody claimed steep-path safety. They agreed that any additional visit would require another independent invitation. Taluma made no permanent route and copied no private signs.",
+            "A few weeks later, Keshu confirmed one narrower daylight window of comparatively calm outer water. A Ternhook household separately granted Reedwing a single sheltered stopping visit. Letha carried a measured sounding line and extra provisions north. From previously observed safe water she made six soundings over two tidal states. Beneath the apparently open notch she saw a transverse current persist, even when the sea surface looked smooth. The crew turned back without crossing it.",
+            "At Taluma, Maro marked six new offshore observations on the existing hide atlas. He did not draw the unvisited water behind the rocks. It would be easy, he said, for a child learning the records to mistake a confident line for a place someone had walked.",
+            "Hesa had returned from Reedmouth before the boats came home. At the evening reading he stood beside Ruva and Naro, listening while Maro named both discoveries and limits. Taluma had learned how many of its grown children still lived with family, how to lose an uncertain sale without losing a neighbor, and why an open-looking coast might remain impassable. None of these required another household to surrender its choices."
+          ]
+        }
+      ]
+    },
+    {
       "id": "y17-d279",
       "title": "The Doors We May Open",
       "year": 17,
