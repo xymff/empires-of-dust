@@ -3,6 +3,9 @@
 A public home for **Taluma**, a fictional prehistoric civilization simulation, plus portable game resources you can bring into an AI of your choice.
 
 - **Dashboard:** https://xymff.github.io/empires-of-dust/
+- **Living stories (readable chapter archive):** https://xymff.github.io/empires-of-dust/stories.html
+- **Story data for the dashboard:** [docs/data/stories.json](docs/data/stories.json)
+- **Individual GitHub-readable chapter files:** [docs/stories/](docs/stories/)
 - **Play your own:** https://xymff.github.io/empires-of-dust/play.html
 - **Download complete Taluma game state:** [docs/data/taluma.json](docs/data/taluma.json)
 - **Start a new civilization:** [docs/downloads/new-civilization-starter.json](docs/downloads/new-civilization-starter.json)
@@ -18,6 +21,14 @@ The dashboard and Play page are published from the `docs/` folder by the [Verify
 **One-time Pages setup:** Open **Settings → Pages → Build and deployment** in this repository. Select **GitHub Actions** as the source. The repository owner must enable this setting before deployment can succeed. If necessary, use **Actions → Verify and deploy Taluma dashboard → Run workflow** afterward. The public dashboard URL is https://xymff.github.io/empires-of-dust/ and the Play page is https://xymff.github.io/empires-of-dust/play.html.
 
 The dashboard is read-only. It shows the latest committed Taluma snapshot, not unsaved conversation turns.
+
+## Story publishing
+
+Each advancing turn produces a new narrated chapter. Publish its **full chapter** as `docs/stories/y<year>-d<day>.md` and append the corresponding structured entry to `docs/data/stories.json` (newest first). The Stories view and reading room load directly from that index. Older chapters stay published and linkable; never replace a prior chapter with a new turn.
+
+**Publishing rhythm:** publish each completed story when it is ready; continue updating the canonical `docs/data/taluma.json` snapshot every third advancing turn. Story posts may therefore lead the latest public save, and the dashboard always labels the game state by the JSON's published date. Story publication alone does not advance game time. Every push runs validation and redeploys Pages.
+
+Backfilled stories currently begin at Year 16, Day 25. Earlier game history remains in the full JSON chronicle rather than being represented as invented narrative chapters.
 
 ## Updating after a turn
 

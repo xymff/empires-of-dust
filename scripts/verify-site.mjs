@@ -8,6 +8,17 @@ const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const docs = resolve(root, 'docs');
 const read = (name) => readFileSync(resolve(root, name), 'utf8');
 const game = JSON.parse(read('docs/data/taluma.json'));
+const archive = JSON.parse(read('docs/data/stories.json'));
+assert.ok(Array.isArray(archive.stories) && archive.stories.length >= 6, 'Six or more archived chapters required');
+assert.equal(new Set(archive.stories.map(s => s.id)).size, archive.stories.length, 'Duplicate chapter IDs');
+for (const story of archive.stories) {
+  assert.match(story.id, /^y[0-9]+-d[0-9]+$/);
+  assert.ok(story.title && story.deck && story.sections.length >= 2);
+  assert.ok(story.sections.every(sec => sec.heading && sec.paragraphs.length >= 2));
+  assert.ok(existsSync(resolve(docs, 'stories', story.id + '.md')), 'Missing GitHub-readable chapter: ' + story.id);
+}
+const readerJS = read('docs/story-reader.js');
+new vm.Script(readerJS, {filename:'docs/story-reader.js'});
 
 assert.equal(game.game, 'Empires of Dust');
 assert.equal(game.campaign_id, 'taluma-the-hollow-coast-4000bce');
@@ -23,7 +34,7 @@ assert.ok(Array.isArray(game.chronicle) && game.chronicle.length > 0);
 assert.ok(Array.isArray(game.named_people));
 assert.ok(Array.isArray(game.workforce_and_projects.active_projects));
 
-for (const page of ['docs/index.html', 'docs/play.html']) {
+for (const page of ['docs/index.html', 'docs/play.html', 'docs/stories.html']) {
   const html = read(page);
   assert.match(html, /<title>[^<]+<\/title>/i);
   for (const [, url] of html.matchAll(/<(?:a|link|script)\b[^>]*\b(?:href|src)=["']([^"']+)["']/gi)) {
@@ -65,8 +76,8 @@ const document = {
   execCommand() { return true; }
 };
 const fetch = async (url) => {
-  assert.equal(url, 'data/taluma.json');
-  return { ok: true, json: async () => game };
+  assert.ok(['data/taluma.json', 'data/stories.json'].includes(url), 'Unexpected fetch: '+url);
+  return { ok: true, json: async () => url === 'data/taluma.json' ? game : archive };
 };
 vm.runInNewContext(script, {
   document, fetch, window: { scrollTo() {} },
@@ -82,6 +93,8 @@ assert.ok(get('peopleList').innerHTML.includes('Esha'), 'People not rendered');
 assert.ok(get('projectList').innerHTML.length > 200, 'Projects not rendered');
 assert.ok(get('chronicleList').innerHTML.length > 200, 'Chronicle not rendered');
 assert.ok(get('contacts').innerHTML.length > 100, 'Diplomacy not rendered');
+assert.ok(get('storyGrid').innerHTML.includes(archive.stories[0].title), 'Story archive not rendered');
+assert.ok(get('featuredStory').innerHTML.includes('stories.html?turn='), 'Featured chapter not linked');
 for (const button of nav) {
   assert.ok(button.events.click, 'Navigation not wired: ' + button.dataset.view);
   button.events.click();
