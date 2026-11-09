@@ -38,7 +38,7 @@ for (const page of ['docs/index.html', 'docs/play.html', 'docs/stories.html']) {
   const html = read(page);
   assert.match(html, /<title>[^<]+<\/title>/i);
   for (const [, url] of html.matchAll(/<(?:a|link|script)\b[^>]*\b(?:href|src)=["']([^"']+)["']/gi)) {
-    if (/^(?:#|https?:|mailto:|data:|javascript:)/i.test(url)) continue;
+    if (/^(?:#|https?:|mailto:|data:|javascript:)/i.test(url) || url.includes('${')) continue;
     const pathname = url.split(/[?#]/)[0];
     if (!pathname) continue;
     const target = resolve(docs, pathname);
