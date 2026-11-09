@@ -5,6 +5,46 @@
   "note": "Stories are narrative editions of completed game turns, not executable save files. The canonical game state remains in data/taluma.json.",
   "stories": [
     {
+      "id": "y17-d279",
+      "title": "The Doors We May Open",
+      "year": 17,
+      "display_year": "3984 BCE",
+      "season": "Mid Spring",
+      "day": 279,
+      "days_advanced": 76,
+      "deck": "One Reedmouth family chooses Taluma. A market learns the difference between trade and profit, Renka welcomes a final seasonal visit, and a dangerous northern passage remains unopened.",
+      "sections": [
+        {
+          "heading": "The price of belonging",
+          "paragraphs": [
+            "The Reedmouth family did not arrive with a procession. They came first as guests, in a borrowed boat, with two small bundles and a question. Hesa repaired fishing nets; Ruva worked reeds into basket linings, and their child Naro had spent most of the crossing staring toward Taluma’s drying racks. None had asked to be enrolled as citizens when they visited the season before. They had wanted to know whether they could choose a new home and still leave if it proved wrong.",
+            "Seli showed them the empty five-place house, then showed them the less attractive parts of living in Taluma: the shared care roster, communal repairs, the open council hearings and the expectation that disputes could be spoken aloud. Ruva asked whether she would be permitted to bring her own method of lining fish baskets. “If it works,” Aret answered, “we will measure it. If it fails, we will measure that too.”",
+            "On their second visit, Iset asked Hesa what he would miss about Reedmouth. “My sister,” he replied. “And the inlet before the rain.” No one promised an easy answer to either problem. Taluma offered voluntary work, safe water, space and a path back to their relations. The household returned home to discuss the move without an escort waiting at their door.",
+            "On Day 265 the three returned with their own gear and accepted residence. Maro entered two adults and one child in the census. Seli inspected the home once more before they crossed its threshold. Taluma had 112 residents, twenty-eight household hearths, and six available housing places. The change was not a decree or a rush of settlers. One family had decided to stay."
+          ]
+        },
+        {
+          "heading": "What a market actually earns",
+          "paragraphs": [
+            "Nemi’s fourth round of modest seasonal trading began with a ledger that looked less triumphant than the older tally boards. Aret and Dava required that a buyer choose a packet to open, and that each inspected batch carry two independent witnesses. One lot of cured fish passed Taluma’s own check but failed a buyer’s examination when its center proved too damp. The entire questionable batch was withdrawn. Its loss was entered with other rejected stock, not charged to the visitor.",
+            "Shellbend and Reedmouth buyers accepted separate exchanges. A Crescent visitor observed a packaging demonstration and offered a method for keeping reed covers away from the wet hull of a boat; Taluma could try it, but no new contract followed. One other household chose not to trade. The market sent fourteen settlement-days of inspected food outward and brought five days of other provisions back, together with one prepared pole and two reed bundles counted outside the food ledger.",
+            "“We gave more food than we received,” Iset said when Maro read back the tally. Nemi agreed. He listed what could not be measured as food: a better wrapping demonstration, an additional household willing to inspect Taluma’s goods, and knowledge of what buyers refused. He would not enter those things as fictitious food-days of profit. The apprentices would follow later invitations and rejected lots before the council called this a reliable regional network.",
+            "The raised and screened shelves continued to give better small-batch results, but not without repairs. Four settlement-days of spoiled or rejected food were recorded for the period. The council kept its provisional 180-day reserve floor, even as the extra mouths in the new house made each settlement-day a larger demand."
+          ]
+        },
+        {
+          "heading": "The second invitation and the water that waited",
+          "paragraphs": [
+            "Ilan waited at Upper Path while the adult route host Oru and Tesh carried Taluma’s request to Renka. Only one potential seasonal meeting remained under their revocable arrangement. Renka agreed, but moved the gathering from the earlier shelf to a different safe part of the established Upper Windgrass meeting ground. The visitors accepted her choice rather than asking why the old place was unavailable.",
+            "Kelan brought a detachable carrying strap based on Renka’s loading advice. Renka’s companion adjusted the shoulder support; Leni watched the knots and wrote down each contribution. In ten short load trials on gently damp ground, eight held steady. Two shifted when a tired carrier turned. Renka ended the demonstration rather than extending the tests toward the closed loose-stone descent.",
+            "She did, however, show them how to unload safely without letting a heavy basket drag the wearer sideways. Leni credited the host teachers by name and left their private trail marks out of the archive. The second seasonal meeting window was now used. Future visits would require a new, independently negotiated invitation, not an automatic renewal of the old protocol.",
+            "At the Hall, Letha brought the northern hide atlas to the council. She had drafted a more systematic offshore survey: repeat soundings from previously safe water, compare flood and ebb on separate days, carry food for a return journey and obtain a new Ternhook stop before departure. Keshu had not confirmed safer outer tides, and no new host permission had arrived. Reedwing and Tidefin remained ready for ordinary work, but no boat sailed toward the dangerous notch.",
+            "Esha listened as Maro read the decision alongside the welcome of Hesa, Ruva and Naro. A new family had crossed a threshold freely. Renka had opened a meeting and then closed it on her terms. A hidden passage remained hidden. Taluma had grown, but it was learning that there were different kinds of doors, and no honor in forcing the ones that belonged to someone else."
+          ]
+        }
+      ]
+    },
+    {
       "id": "y17-d203",
       "title": "The Packet, the Path and the Passage",
       "year": 17,
