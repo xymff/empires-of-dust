@@ -5,6 +5,49 @@
   "note": "Stories are narrative editions of completed game turns, not executable save files. The canonical game state remains in data/taluma.json.",
   "stories": [
     {
+      "id": "y17-d68",
+      "title": "The Names Beneath the Marks",
+      "year": 17,
+      "display_year": "3984 BCE",
+      "season": "Late Autumn",
+      "day": 68,
+      "days_advanced": 76,
+      "deck": "A food mark must earn a stranger's trust. Renka shares credit for a safer load, and the northern voyage waits for the sea to agree.",
+      "sections": [
+        {
+          "heading": "I. A mark that means something",
+          "paragraphs": [
+            "The first of the late-year storms pushed rain beneath the edges of Taluma’s newest drying screens. Aret found the damage before the fish beneath them turned. She had insisted that the apprentices inspect by touch and smell, not merely count the marks on the basket. This time, the marks gave her a place to begin: they named the batch, the preparation and the person who had last looked inside.",
+            "Dava and the six rotating learners brought their latest comparisons to Nemi. Of twenty-four small lots kept on the revised raised racks, twenty-one were sound at their scheduled inspection. Seventeen of twenty-four lots on the older covered shelves were sound. The improvement had appeared twice now, across different weather, though no one could yet promise how any particular parcel would endure an entire distant journey. Four settlement-days of food had been rejected across Taluma’s stores this turn, including wet-weather losses that kept the apprentices humble.",
+            "At the shore market, a Reedmouth visitor examined a packet and asked, through patient gestures, why Taluma’s witness marks should mean anything beyond its own walls. Dava opened a companion packet and showed how two different people checked the same batch. The visitor asked to select one at random. Aret let him. It was sound.",
+            "“That is what the mark must survive,” Dava said when he left. “Someone else looking.”",
+            "Separately invited visitors from Shellbend, Reedmouth and a Ternhook household accepted modest, inspected exchanges. Eighteen settlement-days of Taluman food went out, six days of different provisions returned, and two prepared poles and three reed bundles entered the material tally. Nobody purchased access, promised a monthly delivery or surrendered a fishing place. When one trader suggested that his household should have first claim on Taluma’s best smoked fish, Maro wrote it as an offer, not an agreement."
+          ]
+        },
+        {
+          "heading": "II. Whose hands made it?",
+          "paragraphs": [
+            "Ilan returned inland only after Oru and Tesh secured another invitation from Renka’s people. Kelan brought a revised carrying frame: its load hung lower, with two separately tied gripping supports and a shoulder band shaped after Renka’s demonstration. The meeting stayed on the upper Windgrass shelf. The stone descent was still forbidden.",
+            "Twenty low, carefully weighted passages were attempted on gentle ground, with stops for inspection. Eighteen kept their loads secure. Twice the weight shifted when the carrier turned too quickly. Neither carrier was hurt, but Renka ended the test there. The result was sufficient for supervised work on Taluma’s familiar, level paths; it was not permission to haul through Ridge Hearth’s steep country.",
+            "Kelan wanted the new frame entered in the Taluman skills register. Leni, holding the witness board, hesitated. “As whose design?” she asked.",
+            "Kelan had changed the lashings. Renka had changed the loading. Her companion had shown the shoulder band. Without all three, the result would have been less secure. Ilan repeated each contribution slowly enough for the visitors to confirm it, and Leni recorded a jointly taught gentle-path method rather than a Taluman invention.",
+            "Renka nodded at that. She permitted a separate future request for another exchange, but no permanent trail markers, protected signs or passage rights. The participants took their borrowed examples home. Their knowledge could travel; their permission did not."
+          ]
+        },
+        {
+          "heading": "III. The choice not to go",
+          "paragraphs": [
+            "At the next Hall hearing, Letha laid Reedwing’s sounding line beside the northern hide atlas. She wanted another observation of the dangerous notch beyond Northreach. The vessels were serviceable, the provisions ready, and the crew willing. But Keshu’s message from Crescent Shoal warned of unstable outer tides, and no fresh Ternhook stop had yet been confirmed.",
+            "An apprentice argued that all their past preparation would be wasted if they turned the boat back before leaving. Letha let him finish.",
+            "“A line with knots is not a promise that the sea will hold still,” she said.",
+            "The council postponed the outer voyage. Tidefin carried out ordinary coastal work inside known permissions, and the spare survey provisions remained in the counted stores. Maro left the tidal notch marked as observed from offshore, with the passage beyond it explicitly unknown. Nobody filled a blank on the atlas merely to make the season appear productive.",
+            "That evening Iset stood before the seven councillors and asked how the new trade marks would be challenged when a bad packet did slip through. The council adopted a small, reversible practice: a buyer could open a witnessed sample before acceptance, and a disputed lot would be withdrawn from the current exchange until inspected again. Taluma was not promising compensation it could not measure, nor imposing its rules on other shores. It was offering a reason to trust the next packet.",
+            "Esha looked over the tally boards. The village was still 109 people, and the seven seats were still filled. Their children were learning more than how to count stores or tie knots. They were learning how to admit another person might know something Taluma did not."
+          ]
+        }
+      ]
+    },
+    {
       "id": "y16-d357",
       "title": "The Measure of a Promise",
       "year": 16,
