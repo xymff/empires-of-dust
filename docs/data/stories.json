@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "series": "Empires of Dust · Taluma",
+  "published_save": "y16-d357",
+  "note": "Stories are narrative editions of completed game turns, not executable save files. The canonical game state remains in data/taluma.json.",
+  "stories": [
+    {
+      "id": "y16-d357",
+      "title": "The Measure of a Promise",
+      "year": 16,
+      "display_year": "3985 BCE",
+      "season": "Early Summer",
+      "day": 357,
+      "days_advanced": 62,
+      "deck": "Reliable food, a safer inland load, and a northern opening that may not be a passage. Taluma learns what trust costs.",
+      "sections": [
+        {
+          "heading": "The value of a promise",
+          "paragraphs": [
+            "At the Hall of Many Hands, Nemi set a sound smoked-fish packet beside a spoiled one. From the outside they were nearly indistinguishable. Aret loosened the second binding and its damp center answered for them.",
+            "\"Nobody trades with a basket's tally mark,\" Nemi said. \"They trade with whoever put that mark there.\"",
+            "Dava and six rotating apprentices tracked comparable lots. Ten of twelve batches on improved raised shelves remained sound; on the older covered shelves, eight of twelve were sound. The difference mattered, but Aret would not claim a full season's proof. Wind-driven rain reached some screens and three settlement-days of damaged or questionable food were lost.",
+            "Shellbend households accepted an invited exchange. Reedmouth traders inspected dated packets. A Ternhook household received a trial lot at a permitted landing. Fifteen settlement-days of inspected food left Taluma; five days of other provisions returned alongside separately counted materials.",
+            "When a visitor asked about automatic monthly deliveries, Maro crossed the word \"promised\" from an apprentice's notes. \"A second invitation is not owed because the first was pleasant.\""
+          ]
+        },
+        {
+          "heading": "Renka changes the question",
+          "paragraphs": [
+            "Ilan waited at Upper Path while Oru and Tesh secured permission from Renka's household. Kelan brought a frame with a lower load point and two replaceable grips. Renka chose gentle wet ground for fourteen trials. Twelve loads stayed secure; two shifted. One carrier suffered a minor bruise, and the group stopped to inspect the assembly.",
+            "Renka adjusted the shoulder strap and showed how the load moved in a turn.",
+            "\"You changed the knot,\" Ilan told Kelan, following her gestures. \"She changed the load.\"",
+            "Later, Renka's companion visited Taluma to teach the combination at the Hall. Leni credited the host teachers and did not record private route signs. No permanent corridor or territorial right followed."
+          ]
+        },
+        {
+          "heading": "The opening in the northern rocks",
+          "paragraphs": [
+            "Letha, Rela and Keshu took Reedwing north, using an approved Ternhook stopping place. Beyond Northreach Estuary the crew approached the dark ridge that had haunted earlier voyages.",
+            "With a marked sounding line and sufficient provisions to observe a tide cycle, Letha saw a narrow opening between outer rocks. During flood tide, water seemed to continue farther inland. Keshu would not call it a channel.",
+            "When the tide reversed, white water boiled over stones that had been hidden. Letha ordered Reedwing away.",
+            "Back at Taluma, Maro put two separate marks on the hide atlas: one for the observed notch and another for an unverified possible passage. Nobody landed or claimed the place."
+          ]
+        },
+        {
+          "heading": "The public record",
+          "paragraphs": [
+            "Iset questioned the cost of promising deliveries before Taluma knew what the exchanges truly returned. Maro read the food and boat costs aloud. The council agreed each future delivery required fresh consent, verified goods and a separate decision.",
+            "Esha listened. All seven councillors still served, but the constitution was no longer an abstraction. People were challenging decisions and improving policy without destabilizing the community.",
+            "Nila slept through the argument on Seli's lap. Taluma had survived scarcity; now it was learning the responsibilities of abundance."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "y16-d295",
+      "title": "The Price of Plenty",
+      "year": 16,
+      "display_year": "3985 BCE",
+      "season": "Late Spring",
+      "day": 295,
+      "days_advanced": 64,
+      "deck": "Taluma's storage apprentices learn to distrust their own marks, Renka refuses unsafe shortcuts, and a child is born.",
+      "sections": [
+        {
+          "heading": "A different kind of harvest",
+          "paragraphs": [
+            "At Taluma's oldest drying house, Aret cut the tie on a basket marked three times and counted twice. The fish near the rim was sound; the center had become damp.",
+            "\"If the mark only means somebody looked at it,\" Dava said, \"we haven't learned anything.\"",
+            "Aret and six rotating apprentices separated small lots between tightly covered shelves and raised cross-ventilated racks. Each received preparation and inspection marks. The ventilated lots stayed drier, but an open screen admitted insects until Seli insisted on a narrower weave. Four settlement-days of questionable stores were rejected in the turn.",
+            "Fourteen settlement-days of inspected food left Taluma through modest exchanges and gifts. Five days came back as other preserved provisions, alongside distinct craft materials. When a trader suggested a much larger shipment, Nemi refused to treat tomorrow's reserves as today's bargaining chips.",
+            "\"Next year's hungry people do not get a vote in today's bargain,\" he said."
+          ]
+        },
+        {
+          "heading": "Renka's lesson",
+          "paragraphs": [
+            "At Upper Windgrass, Ilan and Kelan met Renka through Oru and Tesh, after the host households invited them. The dangerous descent remained closed.",
+            "Kelan widened the shoulder support on his frame and revised its gripping sleeve. Ten of twelve wet-ground trials succeeded on level terrain. Two loads shifted on sharp turns. Renka stopped the experiment before anyone tried the treacherous slope.",
+            "The visitors shared inspected food and packing methods while Renka's people demonstrated a different weight distribution. A future invitation was offered but no permanent passage was granted."
+          ]
+        },
+        {
+          "heading": "The public record and a new life",
+          "paragraphs": [
+            "Iset challenged a proposed food shipment for being discussed while many fishers were at sea. The council held a second hearing and reduced the shipment to the fourteen settlement-days in the accounts.",
+            "Reedwing also completed a provisioned northern reconnaissance using an approved stopping place. Beyond Northreach, the crew saw broken rock and difficult shoals. They turned back instead of attempting an uncertain passage.",
+            "On Day 278, Kiva gave birth to Nila. Ralen cared for the household while their older child Aven waited with a folded reed mat. The birth brought Taluma to 109 residents, with no deaths or migration.",
+            "Esha listened as the next council reading announced the number. One hundred and nine."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "y16-d231",
+      "title": "The Measure of Enough",
+      "year": 16,
+      "display_year": "3985 BCE",
+      "season": "Early Spring",
+      "day": 231,
+      "days_advanced": 72,
+      "deck": "Taluma stops mistaking a full storehouse for prosperity, tests Renka's improved frames, and makes accountability practical.",
+      "sections": [
+        {
+          "heading": "The abundance problem",
+          "paragraphs": [
+            "By the time warm winds crossed Taluma's drying racks, Nemi had learned that a large store could demand as much judgment as an empty one.",
+            "Dava and six rotating apprentices inspected dated baskets. Some bundles remained sound enough to travel. Others entered ordinary meals promptly. Four settlement-days of spoiled or damaged stock were discarded. Aret experimented with raised, cross-ventilated store platforms. Two early lids trapped moisture and had to be dismantled.",
+            "At a public hearing, Iset challenged the idea that all incoming food trade was pure profit. If Taluma sent fifteen days of food and received eight days of other food, it had not gained seven days. Maro corrected the accounts to record outgoing and incoming goods separately.",
+            "The council adopted a durable food policy: protect a provisional 180 settlement-day floor, rotate inspected stores, support family recovery and nutrition, and commit only verified surplus to voluntary exchanges and voyages.",
+            "The important measure was now usable food, not just a large number."
+          ]
+        },
+        {
+          "heading": "Renka changes the load",
+          "paragraphs": [
+            "Ilan and Kelan reached Upper Windgrass only after Oru and Tesh obtained permission. Renka's household chose the meeting place and excluded the dangerous loose-stone descent.",
+            "Kelan tested a lower load point with a replaceable gripping sleeve. Renka insisted on stone-filled baskets rather than fragile cargo or people. Seven of eight wet-ground trials held; one shifted during a turn. The result was promising, not proof that the design was safe for steep hauling.",
+            "Renka's companion demonstrated a woven shoulder support that spread pressure. Leni recorded the movements, leaving private trail symbols off the teaching tablets. The visitors offered inspected food and two cordage coils in an openly counted exchange.",
+            "\"A path isn't yours because you know where it goes,\" Kelan told the apprentices later."
+          ]
+        },
+        {
+          "heading": "The work of a constitution",
+          "paragraphs": [
+            "Iset challenged a council proposal discussed in the morning while fishers and caregivers could not attend. Maro recorded her objection. At a second hearing, costs became clearer and the council limited the shipment to the amount already accounted for.",
+            "Seven councillors still occupied seven seats. Nobody had died, resigned or inherited a position. The new constitution was working through ordinary criticism and corrected numbers.",
+            "Meanwhile, Windcut's fishers tried further sample lashings on their own removable frame. A sleeved binding resisted slipping but showed abrasion; another loosened after being retied with wet hands. Vessa refused commercial export until a longer test justified it."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "y16-d159",
+      "title": "The Choice of Seven",
+      "year": 16,
+      "display_year": "3985 BCE",
+      "season": "Late Winter",
+      "day": 159,
+      "days_advanced": 63,
+      "deck": "The constitution is completed, food abundance gets a serious audit, and Windcut's fishers hold Taluma to evidence.",
+      "sections": [
+        {
+          "heading": "The constitution",
+          "paragraphs": [
+            "At the winter hearings, Maro arranged small clay counters beside seven empty circles, one for each council seat. Esha asked the people to imagine one vacant.",
+            "Nemi wanted an interim official capable of keeping the drying racks, trading ground and fishing crews functioning. Seli wanted assurance that a caretaker would not become permanent simply by remaining long enough.",
+            "Dava proposed that the six remaining councillors could appoint a willing caretaker for no more than one moon cycle. The caretaker could coordinate ordinary services but could not declare war, sign a treaty, impose compulsory labor or claim new territory.",
+            "Any willing adult could be nominated by two resident households. Each adult, including elders, would have one confidential pebble choice, with voting hours accommodating work and care. A majority would elect the successor, with a runoff if necessary. Five independent residents chosen by lot could hear procedural appeals and order a new selection when rules were broken.",
+            "After two public readings, the constitution was ratified. Esha moved her pebble out of its circle for a moment. The circle remained."
+          ]
+        },
+        {
+          "heading": "The stores that were too full",
+          "paragraphs": [
+            "Nemi faced a different problem: 314 settlement-days of food. It was an extraordinary achievement, but the stores were not one enormous, perfectly preserved supply. An old basket was opened. The upper layer was sound; its interior smelled wrong.",
+            "Eight settlement-days of spoiled or rejected food were recorded. Seli would not distribute doubtful food merely because the stores were full.",
+            "The council began rotating the oldest sound food first and inspecting stock before exchange. Six additional settlement-days went to voluntary nutrition, recovery and caregiving support. Twelve settlement-days were exchanged or gifted through limited, inspected contacts with willing neighbors. A provisional protected floor of 180 settlement-days was proposed, with existing family provisions and seed reserve untouched.",
+            "An apprentice stared at the remaining stores. \"What do we do with all the rest?\"",
+            "\"Make sure it remains food,\" Nemi answered."
+          ]
+        },
+        {
+          "heading": "A borrowed frame and a tested knot",
+          "paragraphs": [
+            "Ilan returned Renka's borrowed carrying frame through Oru and Tesh, along the permitted inland approach. At an invited upper-shelf meeting, Kelan demonstrated a textured protective wrapping. Four dry-load pulls performed well. In wet conditions, two of six trials slipped. No dangerous slope test was authorized.",
+            "Later, two Ridge Hearth adults attended a voluntary craft meeting in Taluma. No permanent road or treaty resulted.",
+            "At Windcut, Vara invited another controlled comparison. Four lashings were fitted to a removable host-owned frame, two conventional and two with Taluman sleeves. After rough tides one ordinary knot slipped and neither sleeved knot did, though one sleeve showed abrasion.",
+            "An apprentice called the design ready for export. \"We have two tides,\" Vessa replied. \"A season has more.\" No bulk production began."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "y16-d96",
+      "title": "The Seats and the Stones",
+      "year": 16,
+      "display_year": "3985 BCE",
+      "season": "Early Winter",
+      "day": 96,
+      "days_advanced": 71,
+      "deck": "Taluma makes its founding principles binding and learns why an unmarked path can be an act of friendship.",
+      "sections": [
+        {
+          "heading": "A charter that outlives its authors",
+          "paragraphs": [
+            "For the first time in Taluma's history, the Council of the Shore opened a hearing to decide rules that would outlive the people making them. The Hall of Many Hands filled twice, not once. At dawn, fishers returning from the tide flats spoke before sleeping. At dusk, people responsible for children and elders could attend while other adults covered their work.",
+            "Dava stood beside Maro's clay witness board and read the three principles the guiding intelligence had authorized. Any resident household could openly nominate a willing successor. No council seat could be inherited. And consequential decisions, including dissent, had to be recorded where people could hear them read back and challenge an inaccurate account.",
+            "Nemi placed his hand on the unfinished section of the board. \"And when someone dies in the hungry part of winter, how long must we argue before the work is done?\"",
+            "\"We are deciding what the seat belongs to,\" Dava replied, \"not who gets the next one.\"",
+            "The principles were ratified. Caretaker duration, the final selection threshold and appeals remained open for a separately witnessed charter amendment. Seven councillors remained in office. No apprentice gained a vote."
+          ]
+        },
+        {
+          "heading": "Renka's upper shelf",
+          "paragraphs": [
+            "Inland, Ilan's party spent days arranging a meeting rather than cutting straight toward Windgrass Hollow. Oru and Tesh obtained consent from Ridge Hearth households for an escorted visit to a sheltered shelf chosen by Renka. Ilan brought Kelan and Leni, a sample of Taluman carrying-frame cordage, and no tools for quarrying or clearing a path.",
+            "Renka showed how a pebble marker could guide a welcome guest and also invite a stranger into another family's resting ground. Kelan demonstrated a replaceable fiber sleeve that protected a hauling knot from grit. A Ridge Hearth craftsperson answered by shifting the load point on a wooden frame.",
+            "A short downhill trial carried the weight more steadily. On damp grass, however, the revised hitch slipped and the load had to be caught before it struck a stone. They recorded both results. Nobody declared a new transport invention."
+          ]
+        },
+        {
+          "heading": "The sign that was not placed",
+          "paragraphs": [
+            "A moon later, Renka and a willing companion came to Taluma, accompanied along accepted approaches by Oru and Tesh. They chose a public gathering at the Hall and could leave whenever they wished.",
+            "Vessa and Maren showed how sacrificial reed sleeves could be replaced without discarding an entire cord. Renka repeated the frame adjustment but declined to demonstrate certain trail signs away from her community.",
+            "When an apprentice proposed permanent stone markers between the communities, Renka overturned the proposed marker with her foot. Ilan suggested a removable sign placed only during a jointly agreed meeting and taken away afterward. Renka accepted it as a proposal, not continuing access.",
+            "Taluma learned that a stronger friendship sometimes required leaving a trail unmarked."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "y16-d25",
+      "title": "The Weight of Seven Seats",
+      "year": 16,
+      "display_year": "3985 BCE",
+      "season": "Early Autumn",
+      "day": 25,
+      "days_advanced": 83,
+      "deck": "The first succession charter, a cautious new horizon, and a knot that might one day carry Taluma's reputation.",
+      "sections": [
+        {
+          "heading": "The Hall of Many Hands",
+          "paragraphs": [
+            "The Hall of Many Hands had hosted arguments over fish, timber, infants and trade. This time Esha asked the households to consider what would happen when the seven people sitting before them could no longer serve.",
+            "Dava had prepared a careful proposal: vacancies would be announced publicly, households could nominate willing adults, and the remaining council would appoint a temporary caretaker until the community chose a successor. The caretaker could keep water, food and repairs running but could not bind Taluma to war or a treaty. Each major council decision would carry the names of those who supported it and those who opposed it. No seat would pass from parent to child.",
+            "\"Who gets to come here and nominate someone?\" Seli asked. \"A fisher who is out at the tide line? A mother keeping a sick child warm?\"",
+            "Iset pointed out that a hearing attended only by those with spare hours would soon become rule by those with spare hours. Nemi feared the opposite danger: leaving a seat vacant too long while disputes multiplied. Maro marked the disagreement instead of erasing it.",
+            "The resulting Seven Seats charter was a complete draft, not law. Esha asked for another round of household testimony before the guiding intelligence decided whether to adopt it. The Listening Bench gained a real responsibility, but no votes or council seats."
+          ]
+        },
+        {
+          "heading": "Two tides at Windcut",
+          "paragraphs": [
+            "Far south, Tidefin reached Windcut with Rela at the paddle and the revised bindings wrapped against salt. Vara met them outside the fishers' working stakes. Vessa and Maren had sent two comparably sized lashings and replaceable reed sleeves, each marked so a failed knot could be distinguished from a worn fiber. No one was asked to risk a loaded fish barrier.",
+            "When a rough tide passed, the ordinary cord had crept loose in the grit. The newly sleeved braid remained tied, but its outer fibers had begun to wear. The difference mattered, yet no one called the new design storm-proof.",
+            "Vara offered to compare further samples at two later seasonal visits, provided the fishers agreed again each time. Taluma returned with evidence, not a contract."
+          ]
+        },
+        {
+          "heading": "Beyond the old boundaries",
+          "paragraphs": [
+            "Letha took Reedwing north with two other Taluman crew and Keshu, who volunteered as a Crescent pilot. The Ternhook households accepted one sheltered return stop. Beyond the already observed mouth of Northreach Estuary, Letha glimpsed a low dark ridge unfamiliar to her old chart. Farther in, something pale rose above the shore. Smoke, perhaps; spray or mist, just as plausibly.",
+            "Keshu pointed to a shoal cut where the tide was turning. Letha ordered the boat about. The ridge entered the atlas with a witness mark; the supposed smoke received a question mark.",
+            "Inland, Ilan returned to Upper Path to seek permission, not passage by assumption. Oru and Tesh consulted the seasonal Ridge Hearth households, who accepted a single escorted visit to an upper shoulder beyond the old Windgrass stopping place. There the path keeper Renka showed the visitors a loose-stone descent. They did not follow it. Instead she examined their carrying-frame lashings and suggested a future craft meeting at an agreed site.",
+            "There was no new road, quarry or treaty. There was, however, someone beyond the old frontier who might now recognize them when they returned."
+          ]
+        }
+      ]
+    }
+  ]
+}
