@@ -50,7 +50,7 @@ for (const page of ['docs/index.html', 'docs/play.html', 'docs/stories.html']) {
 for (const page of ['docs/index.html','docs/play.html','docs/stories.html']) {
   const pageHtml=read(page);
   assert.match(pageHtml,/Follow @thewebbie/, 'Creator social links missing on '+page);
-  for(const domain of ['x.com/thewebbie','instagram.com/thewebbie','facebook.com/thewebbie'])
+  for(const domain of ['x.com/thewebbie','instagram.com/thewebbie','facebook.com/thewebbie','github.com/xymff'])
     assert.ok(pageHtml.includes(domain), 'Missing social account '+domain+' in '+page);
 }
 
