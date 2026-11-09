@@ -1,9 +1,49 @@
 {
   "schema_version": 1,
   "series": "Empires of Dust · Taluma",
-  "published_save": "y16-d357",
+  "published_save": "y17-d203",
   "note": "Stories are narrative editions of completed game turns, not executable save files. The canonical game state remains in data/taluma.json.",
   "stories": [
+    {
+      "id": "y17-d203",
+      "title": "The Packet, the Path and the Passage",
+      "year": 17,
+      "display_year": "3984 BCE",
+      "season": "Midwinter",
+      "day": 203,
+      "days_advanced": 71,
+      "deck": "A doubtful food lot is withdrawn, Renka hosts the first revocable seasonal craft meeting, and a northern passage remains unentered.",
+      "sections": [
+        {
+          "heading": "The packet set aside",
+          "paragraphs": [
+            "The third trading gathering began with an argument before a single basket changed hands. Aret had arranged Taluma’s smoked fish under a clean awning, each packet bearing the lot mark of the preparer and a second witness. A Reedmouth buyer selected one from the center of a group rather than accepting the packet placed nearest the front. The cut surface was sound, but a corner felt damp. Aret withdrew the entire lot for reinspection.",
+            "“Then why give it a mark at all?” asked one of the younger apprentices. Dava took the tablet from him and drew a line through the quantity promised for sale. “Because we can find the doubtful ones before a neighbor eats them.” The buyer returned the following morning, inspected a different lot, and accepted it without demanding that the first be concealed.",
+            "Nemi had invited willing Shellbend and Reedmouth households individually. A Crescent Shoal visitor watched a demonstration but made no purchase or future promise; the Ternhook party declined the crossing during rough weather. Nobody was counted as having agreed merely because Taluma offered a place. Across the accepted visits, twelve settlement-days of inspected provisions left Taluma and five came back in other foods. Some trade returned wood and reeds, entered separately from food. Four settlement-days of local stores failed inspection, including the withdrawn market lot.",
+            "The raised-screen racks again performed better in a small comparative check: twenty-three of twenty-six lots stayed sound at their scheduled opening, compared with twenty of twenty-six from older covered shelves. Aret kept the result on the Hall wall without a claim that the method could guarantee food through a whole season. Iset asked for transport labor and spoiled batches to appear beside sales figures. Maro recorded the objection and the corrected net movement in the public hearing."
+          ]
+        },
+        {
+          "heading": "The meeting that could end",
+          "paragraphs": [
+            "At Upper Path, Ilan waited while Oru and Tesh carried a request toward Renka’s people. The two-season meeting arrangement promised only a way of asking, and this was its first actual test. Renka’s household chose the sheltered upper Windgrass shelf, the number of visitors and a clear morning for a supervised craft exchange. No one used private path signs, and the loose-stone descent remained closed.",
+            "Kelan brought two versions of the low-hung carrying frame. Renka’s companion tightened the broad shoulder band while Kelan replaced the outer grip sleeve. With stone baskets on gentle, damp ground, fourteen of sixteen short passes held. One load sagged when the carrier stopped abruptly; another twisted during a turn. Renka halted the trial, loosened the strap and demonstrated why a tired carrier needed a way to lower the load without being dragged sideways.",
+            "Leni wrote the teaching credit with three names: Kelan, Renka and Renka’s companion. She did not invent a new Shore Words translation for the host’s gestures. The participants exchanged small, inspected provisions and two trial cordage coils, counted within Taluma’s hospitality and material ledgers. They made no durable road and no claim that the method was safe on steep slopes.",
+            "When Ilan asked whether the next seasonal gathering could be placed on the same shelf, Renka shook her head. She pointed toward the neighboring families’ resting ground, then back to Oru. Next time they would ask again; the hosts might choose somewhere else, or decline altogether. One of the two possible seasonal meeting windows had now been used. The second was still only an opportunity to request permission."
+          ]
+        },
+        {
+          "heading": "Nine places and a narrow tide",
+          "paragraphs": [
+            "Seli inspected the new five-place house with Kiva, Ralen and an older learner who had helped weave its panels. After hard rain, a low reed edge showed signs of loosening. The repair crew reset it with materials from ordinary stores, not from the old home kit that had already been spent. The water and care rosters could serve the house if it filled, but no resident had yet moved in.",
+            "A visiting Reedmouth household asked what living in Taluma would require. Seli showed them the empty dwelling, the shared care rota and the ordinary expectations of a household joining the settlement. She did not assign them a bed or enter their names on the census. They returned home to discuss the decision among themselves. For now Taluma remained 109 residents with nine available places, and the council maintained the home for future voluntary use.",
+            "The northern question returned when Keshu brought word of a short, comparatively calm daylight interval and a Ternhook household independently welcomed one sheltered stop. Letha took Reedwing with a small crew, Keshu piloting the known approach. They watched the outer rocks from a safe position through flood and ebb, using the sounding line only within waters already judged suitable for the boat.",
+            "From one angle the northern notch seemed to divide into two openings. As the ebb strengthened, a cross-current swept along the nearer lip and exposed stones beneath what had looked like smooth water. Letha refused the passage and returned with two witnessed tide observations. Maro added the divided appearance to the hide atlas as an offshore observation, not a mapped channel. No new landing, territorial claim or safe crossing had been established.",
+            "That evening Esha listened as the apprentices read back three separate marks: a packet withdrawn rather than sold, a meeting that could be declined, and a passage left unentered. None sounded grand. They were, however, the kind of decisions Taluma’s children could inherit without inheriting anyone else’s risk."
+          ]
+        }
+      ]
+    },
     {
       "id": "y17-d132",
       "title": "The House With Empty Places",
