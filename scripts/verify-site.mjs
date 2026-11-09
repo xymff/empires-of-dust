@@ -47,6 +47,13 @@ for (const page of ['docs/index.html', 'docs/play.html', 'docs/stories.html']) {
   }
 }
 
+for (const page of ['docs/index.html','docs/play.html','docs/stories.html']) {
+  const pageHtml=read(page);
+  assert.match(pageHtml,/Follow @thewebbie/, 'Creator social links missing on '+page);
+  for(const domain of ['x.com/thewebbie','instagram.com/thewebbie','facebook.com/thewebbie'])
+    assert.ok(pageHtml.includes(domain), 'Missing social account '+domain+' in '+page);
+}
+
 const html = read('docs/index.html');
 const script = html.match(/<script(?:\s[^>]*)?>([\s\S]*?)<\/script>/i)?.[1];
 assert.ok(script, 'Missing dashboard script');
